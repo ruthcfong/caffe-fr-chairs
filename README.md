@@ -1,4 +1,4 @@
-Installed successfully with cudnn v3.
+Installed successfully with cudnn v3. Ran `make all pycaffe -j8`.
 
 ---
 
